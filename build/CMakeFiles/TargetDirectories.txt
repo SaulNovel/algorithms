@@ -1,0 +1,5 @@
+/mnt/c/Users/snovelgo/VisualStudioProjects/algorithms/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/snovelgo/VisualStudioProjects/algorithms/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/snovelgo/VisualStudioProjects/algorithms/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/snovelgo/VisualStudioProjects/algorithms/build/src/CMakeFiles/algorithms_run.dir
+/mnt/c/Users/snovelgo/VisualStudioProjects/algorithms/build/src/CMakeFiles/edit_cache.dir
