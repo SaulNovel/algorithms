@@ -1,4 +1,7 @@
 
+#ifndef SELECTION_SORT
+#define SELECTION_SORT
+
 namespace SelectionSort {
 
 /**
@@ -19,3 +22,5 @@ void sort(T* data, size_t size) {
 }
 
 }
+
+#endif

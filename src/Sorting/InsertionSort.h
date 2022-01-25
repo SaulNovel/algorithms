@@ -1,3 +1,6 @@
+#ifndef INSERTION_SORT
+#define INSERTION_SORT
+
 namespace InsertionSort {
 
 template<typename T>
@@ -42,3 +45,5 @@ void sort(T* data, size_t size) {
 }
 
 }
+
+#endif

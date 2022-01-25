@@ -1,3 +1,6 @@
+#ifndef BUBBLE_SORT
+#define BUBBLE_SORT
+
 #include <algorithm>
 
 namespace BubbleSort {
@@ -22,3 +25,5 @@ void sort(T* data, size_t size) {
 }
 
 }
+
+#endif

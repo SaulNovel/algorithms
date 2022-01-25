@@ -1,3 +1,6 @@
+#ifndef MERGE_SORT
+#define MERGE_SORT
+
 #include <vector>
 
 using std::vector;
@@ -110,3 +113,5 @@ private:
 };
 
 }
+
+#endif

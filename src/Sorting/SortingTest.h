@@ -1,3 +1,6 @@
+#ifndef SORTING_TEST
+#define SORTING_TEST
+
 #include <Sorting/BubbleSort.h>
 #include <Sorting/SelectionSort.h>
 #include <Sorting/InsertionSort.h>
@@ -120,3 +123,5 @@ void test() {
 }
 
 }
+
+#endif

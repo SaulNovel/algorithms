@@ -30,6 +30,16 @@
             "problemMatcher": []
         },
         {
+            "label": "run_test",
+            "type": "shell",
+            "command": "${workspaceRoot}/build/test/algorithms_test",
+            "dependsOn": [
+                "build"
+            ],
+            "problemMatcher": []
+        },
+
+        {
             "label": "clean_build_compile",
             "dependsOn": [
                 "clean",

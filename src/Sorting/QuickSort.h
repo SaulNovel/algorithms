@@ -1,3 +1,6 @@
+#ifndef QUICK_SORT
+#define QUICK_SORT
+
 #include <algorithm>
 
 namespace QuickSort {
@@ -71,3 +74,5 @@ private:
 };
 
 }
+
+#endif

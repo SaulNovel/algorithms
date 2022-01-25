@@ -4,6 +4,7 @@
 
 int main()
 {
-    SortingTest::test();
+    //SortingTest::test();
+
     return 0;
 }
