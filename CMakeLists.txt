@@ -9,6 +9,9 @@ add_definitions(${GCC_COVERAGE_COMPILE_FLAGS})
 
 include_directories(src)
 include_directories(test)
+#message("CMAKE_CURRENT_SOURCE_DIR: ${CMAKE_CURRENT_SOURCE_DIR}/../data-structures/src")
+include_directories(Tree "${CMAKE_CURRENT_SOURCE_DIR}/../data-structures/src/Tree")
 
 add_subdirectory(src)
 add_subdirectory(test)
+#TODO: include("${CMAKE_CURRENT_SOURCE_DIR}/../data-structures/src/Tree/BinarySearchTree.h")
